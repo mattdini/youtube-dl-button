@@ -1,0 +1,7 @@
+{
+  "name": "youtubedlbutton",
+  "description": "Adds a button to send current URL to youtube-dl",
+  "path": "YoutubeDLButtonHostApp.exe",
+  "type": "stdio",
+  "allowed_extensions": [ "youtubedlbuttong@mattisawesome.com" ]
+}
