@@ -5,7 +5,7 @@
   "name": "YouTube DL Button",
   "version": "1.0",
   "icons": {
-    "48": "icons/if_YouTube_571117.png"
+    "48": "icons/icon.png"
   },
 
   "applications": {
@@ -20,7 +20,7 @@
   },
 
   "browser_action": {
-    "default_icon": "icons/if_YouTube_571117.png"
+    "default_icon": "icons/icon.png"
   },
   
   "permissions": ["nativeMessaging","tabs"]
